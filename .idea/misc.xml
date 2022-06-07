@@ -3,9 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/drawable-v24/btn_top.xml" value="0.1405" />
+        <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/drawable-v24/ic_baseline_location_on_24.xml" value="0.1405" />
+        <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.1405" />
+        <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/drawable-v24/ic_email.xml" value="0.1405" />
+        <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/drawable-v24/ic_lock.xml" value="0.1405" />
+        <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/drawable-v24/ic_login_bg.xml" value="0.1405" />
+        <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/drawable-v24/login_btn_bg.xml" value="0.1405" />
         <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/drawable-v24/menu_bg.xml" value="0.1405" />
         <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/layout/activity_detail_news.xml" value="0.16576086956521738" />
+        <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/layout/activity_login_actvty.xml" value="0.16576086956521738" />
         <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/layout/activity_main.xml" value="0.16576086956521738" />
+        <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/layout/activity_register_acrtvty.xml" value="0.16576086956521738" />
         <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="..\:/kuliah/kampus-merdeka/materi/binar/android-studio/StudiKasus3/app/src/main/res/layout/item_news.xml" value="0.16576086956521738" />
       </map>

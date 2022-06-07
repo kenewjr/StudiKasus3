@@ -5,8 +5,25 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".view.NewsList">
+    <TextView
+        android:text="halo, dengan siapa dmn"
+        android:textColor="@color/white"
+        android:id="@+id/welcome"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_alignParentEnd="true"
+        android:text="Logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText" />
 
     <androidx.recyclerview.widget.RecyclerView
+        android:layout_below="@id/btnLogout"
         android:layout_margin="10sp"
         android:id="@+id/rvNews"
         android:layout_width="match_parent"
